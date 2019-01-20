@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Navneet Designworks - We create, build & code awesome websites.
+email: hello@ndesignworks.in
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://www.ndesignworks.in" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: ndesignworks
+github_username: NavneetDW
 
 # Build settings
 markdown: kramdown
