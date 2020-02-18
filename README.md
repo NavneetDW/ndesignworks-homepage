@@ -1,6 +1,6 @@
 # Website Source for Btturr InfoTech 
 
-<img src='https://travis-ci.com/btturr/btturr-web.svg?branch=master'>
+<a href='https://travis-ci.com/btturr/btturr-web'><img src='https://travis-ci.com/btturr/btturr-web.svg?branch=master'></a>
 
 Inspired by [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
