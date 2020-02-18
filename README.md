@@ -32,6 +32,8 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 You must have npm installed globally in order to use this build environment.
 
+## Credits
+
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 * http://davidmiller.io
