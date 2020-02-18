@@ -1,4 +1,4 @@
-Website Source for nDesignworks
+Website Source for Btturr InfoTech
 
 Inspired by [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
