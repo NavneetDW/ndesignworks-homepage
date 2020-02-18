@@ -4,11 +4,6 @@ Website Source for Btturr InfoTech
 
 Inspired by [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
@@ -35,4 +30,4 @@ After installation, run `npm install` and then run `npm start` which will open u
 - `gulp js` minifies the themes JS file
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+You must have npm installed globally in order to use this build environment.
