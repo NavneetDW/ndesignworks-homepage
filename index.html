@@ -30,7 +30,7 @@
 
   <!-- Theme CSS - Includes Bootstrap -->
   <link href="css/creative.min.css" rel="stylesheet">
-  <link href="css/dark-mode.css" rel="stylesheet">
+  
 
   <!-- ****** faviconit.com favicons ****** -->
   	<link rel="shortcut icon" href="/favicon.ico">
@@ -89,11 +89,7 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger umami--click--contact-button" href="#contact">Contact</a>
           </li>
-          <li class="nav-item custom-control custom-switch">
-            <input type="checkbox" class="custom-control-input" id="darkSwitch" />
-            <label class="nav-item custom-control-label" for="darkSwitch">Switch Dark/Light Mode</label>
-          </li>
-        </ul>
+          </ul>
       </div>
     </div>
   </nav>
@@ -444,7 +440,13 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="vendor/dark-mode-switch.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+  <script>
+    function addDarkmodeWidget() {
+      new Darkmode().showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
+  </script>
 
   <!-- Plugin JavaScript -->
   <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
